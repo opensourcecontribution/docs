@@ -40,13 +40,13 @@ User Manual
 
 You can get detailed *How to* documents from Sensei's Documentation Site located at https://help.sunnyvalley.io/
 
-* `Dashboard <https://help.sunnyvalley.io/hc/en-us/articles/360025097293-Dashboard>`_
-* `Status <https://help.sunnyvalley.io/hc/en-us/articles/360025098033-Status>`_
-* `Reports <https://help.sunnyvalley.io/hc/en-us/articles/360024939914-Reports>`_
-* `Security <https://help.sunnyvalley.io/hc/en-us/articles/360024941254-Security>`_
-* `Application Control <https://help.sunnyvalley.io/hc/en-us/articles/360024941394-Application-Control>`_
-* `Web Control <https://help.sunnyvalley.io/hc/en-us/articles/360025100393-Web-Control>`_
-* `Configuration <https://help.sunnyvalley.io/hc/en-us/articles/360024941814-Configuration>`_
+* `Dashboard <https://www.sunnyvalley.io/docs/customizing-dashboard/dashboard>`_
+* `Status <https://www.sunnyvalley.io/docs/customizing-dashboard/status>`_
+* `Reports <https://www.sunnyvalley.io/docs/reporting-analytics/reports-overview>`_
+* `Security <https://www.sunnyvalley.io/docs/policies/security-rules>`_
+* `Application Control <https://www.sunnyvalley.io/docs/policies/application-control-rules>`_
+* `Web Control <https://www.sunnyvalley.io/docs/policies/web-control-rules>`_
+* `Configuration <https://www.sunnyvalley.io/docs/configuration/overview>`_
 
 ----------------------------
 Getting Support
@@ -61,7 +61,7 @@ You may also submit bug reports by visiting the *Report Bug* page in the Sensei 
 With its in-depth coverage, `Sensei Documentation <https://help.sunnyvalley.io/>`_ is always available for reference.
 
 * `OPNsense Forum <https://forum.opnsense.org/index.php?board=38.0>`_
-* `Users' Manual <https://help.sunnyvalley.io/>`_
+* `Users' Manual <https://www.sunnyvalley.io/docs/>`_
 
 **Premium Subscription Support**
 
